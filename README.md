@@ -75,30 +75,8 @@
 
 ---
 
-## 📊 Interactive GitHub Analytics
 
-<div align="center">
 
-<!-- Core Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yaminiDKS&show_icons=true&theme=transparent&rank_icon=github" alt="Yamini's GitHub stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminiDKS&layout=compact&theme=transparent" alt="Top Languages" />
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=yaminiDKS&theme=transparent" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Activity Graph (Infographic-style)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaminiDKS&bg_color=ffffff&color=000000&line=00bfa6&point=000000&area=true&hide_border=true" alt="Yamini's GitHub activity graph" />
-</div>
-
----
 
 ## 🤝 Interactive “Chat” & Collaboration Touchpoints
 
@@ -137,7 +115,7 @@
 ## 📫 Connect
 
 - 📧 **Email**: [yaminidks004@gmail.com](mailto:yaminidks004@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/yamini-d-k-s](https://www.linkedin.com/in/yamini-d-k-s)  
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/yamini-d-k-s-1b86b2255/](https://www.linkedin.com/in/yamini-d-k-s-1b86b2255/) 
 - 🐙 **GitHub**: [github.com/yaminiDKS](https://github.com/yaminiDKS)
 
 > If you’re working on something ambitious with AI, I’m always open to explore collaboration.
