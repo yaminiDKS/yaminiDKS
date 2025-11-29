@@ -1,9 +1,7 @@
 <!-- PROFILE HEADER -->
 <div align="center">
   
-  <!-- Animated Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1500&color=00BFA6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yamini+D.K.S+👋;AI+Engineer+in+the+making+%7C+B.Tech+AI+%26+DS;Building+LLM-powered+systems+and+smart+ML+pipelines" alt="Typing SVG" />
-
+  
   <!-- Hero Badges -->
   <p>
     <a href="mailto:yaminidks004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
@@ -46,33 +44,7 @@
 
 ---
 
-## 🚀 Flagship Projects & IP
 
-### 🌾 AgriDiagnox – AI Agricultural Platform
-
-> LLM + RAG + CV for farmer-first intelligence
-
-- Built an **AI-powered agricultural diagnostics platform** using **Gemini LLM** with a **RAG architecture** and a vector database for semantic search over agronomy content.
-- Implemented a **multilingual NLP pipeline with Tamil support** via web-scraping 100+ veterinary sources for localized, high-context recommendations.
-- Integrated **Computer Vision crop disease detection** using Generative AI with prompt-tuning, achieving **~87% classification accuracy**.
-- Deployed an **end-to-end ML pipeline** with **FastAPI** for real-time recommendations and responsive UX.
-
-> _Add repo link here once public_  
-> `➡️ [AgriDiagnox Repository](#)`
-
----
-
-### 📈 Linear Regression from Scratch
-
-> No black boxes. Just math, gradients, and code.
-
-- Implemented **Linear Regression from scratch** using **NumPy**, optimized with **gradient descent**, achieving **~85% reduction in training loss in 500 iterations**.
-- Built a **data visualization dashboard** (Matplotlib + Seaborn) to monitor convergence, analyze feature correlations, and improve interpretability.
-
-> _Add repo link here once public_  
-> `➡️ [Linear Regression from Scratch](#)`
-
----
 
 ### 🧠 Patent – Event Management using AR/VR
 
