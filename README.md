@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **B.Tech Artificial Intelligence & Data Science**, Sri Sairam Engineering College (CGPA: 8.6/10)
+- 🎓 **B.Tech Artificial Intelligence & Data Science**, Sri Sairam Engineering College 
 - 💼 **AI/ML Intern @ ITech India** – OCR pipelines, LLaMA 3–based similarity engines, and MLOps for production AI
 - 🔁 **Ex AI/ML Intern @ Altruisty Pvt Ltd** – Gemini LLM, RAG, data platforms for 50+ collaborators
 - 🧠 Focus areas: **LLMs, RAG systems, Computer Vision, MLOps, Model Deployment**
